@@ -230,3 +230,4 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+/.vs/GildedRose/v15/Server/sqlite3
