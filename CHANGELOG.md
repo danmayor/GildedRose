@@ -11,3 +11,8 @@ of a AAA pattern).
 
 In the next commit, I expand on the tests to account for the various quality modification
 rules of the shop and introduce the App class that emulates the existing Items collection.
+
+# Step 2 Refactoring...
+Refactoring the App class code such that we will be able to pass the goblins Items collection
+in to our new App object and pulling out the rule logic to individual methods. Re-writing
+Program.Main to now leverage our TDD designed App class.
